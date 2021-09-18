@@ -11,7 +11,7 @@ The whatsapp bot built using Twilo APIs which sends a Whatsapp message when code
 
 <!-- > A github action which sends a Whatsapp message when code is pushed to a repository. -->
 
-### :house_with_garden: [Homepage](https://github.com/ishween/whatsapp-push-notify-action)
+<!-- ### :house_with_garden: [Homepage](https://github.com/g-sudarshan/whatsapp-push-notify-action) -->
 
 ### Usage
 1. Create account in twilio [here](https://www.twilio.com/).  
