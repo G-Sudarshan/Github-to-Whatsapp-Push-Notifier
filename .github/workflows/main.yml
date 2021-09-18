@@ -13,7 +13,7 @@ jobs:
       - name: run code
         run: python main.py
         env:
-          account_sid: ${{ secrets.account_sid }}
-          auth_token: ${{ secrets.auth_token }}
-          to_whatsapp_no: ${{ secrets.to_whatsapp_no }}
-          from_whatsapp_no: ${{ secrets.from_whatsapp_no }}
+          account_sid: ${{ secrets.ACCOUNT_SID }}
+          auth_token: ${{ secrets.AUTH_TOKEN }}
+          to_whatsapp_no: ${{ secrets.TO_WHATSAPP_NO }}
+          from_whatsapp_no: ${{ secrets.FROM_WHATSAPP_NO }}
