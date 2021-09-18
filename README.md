@@ -44,7 +44,7 @@ jobs:
 
 # Whatsapp Push Notifier Output
 
-![whatsapp-push-notify-screenshot](https://github.com/G-Sudarshan/Github-to-Whatsapp-Push-Notifier/blob/main/Screenshot%202021-09-18%20at%2011.01.58%20PM.png)
+![whatsapp-push-notify-screenshot](https://github.com/G-Sudarshan/Github-to-Whatsapp-Push-Notifier/blob/main/IMG_20210918_230959.jpg)
 
 
 This project is [GNU GPLv3](https://github.com/ishween/whatsapp-push-notify-action/blob/master/LICENSE) licensed.
