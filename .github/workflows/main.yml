@@ -2,7 +2,7 @@ name: When a push occurs in the master branch, a private message is sent on the 
 on:
   push:
     branches: 
-      - master
+      - main
 jobs:
   build:
     runs-on: ubuntu-latest
