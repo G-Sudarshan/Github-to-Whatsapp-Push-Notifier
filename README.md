@@ -1,5 +1,5 @@
 # Github-to-Whatsapp-Push-Notifier
-The whatsapp bot built using Twilo APIs which sends a Whatsapp message when code is pushed to a repository.
+The whatsapp bot built using Twilio APIs which sends a Whatsapp message when code is pushed to a repository.
 
 <h1 align="center">Whatsapp Push Notify Action 🚀</h1>
 <p>
