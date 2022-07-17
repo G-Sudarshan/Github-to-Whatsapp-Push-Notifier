@@ -42,9 +42,16 @@ jobs:
           echo 'Start!'
 ```
 
-# Whatsapp Push Notifier Output
+## 📸 Whatsapp Push Notifier Output
 
 ![whatsapp-push-notify-screenshot](https://github.com/G-Sudarshan/Github-to-Whatsapp-Push-Notifier/blob/main/IMG_20210918_230959.jpg)
+
+---
+## 📽 YouTube Video 
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/omT24XCIfI8/0.jpg)](https://youtu.be/omT24XCIfI8)
+
+---
 
 
 This project is [GNU GPLv3](https://github.com/ishween/whatsapp-push-notify-action/blob/master/LICENSE) licensed.
